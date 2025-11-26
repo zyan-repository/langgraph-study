@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-community
+langchain-google-genai
+langsmith
+python-dotenv
+ipykernel
+jupyterlab
+rich
+pandas
