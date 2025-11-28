@@ -1,9 +1,6 @@
-# LangGraph Study
+# LangGraph Study — English Guide
 
-Documentation lives in `/docs` so each language has its own page. English is still the default view:
-
-- [English Guide](docs/README.en.md)
-- [简体中文指南](docs/README.zh.md)
+[简体中文指南](README.zh.md)
 
 ## Overview
 LangGraph Study is a “clone & learn” mini-lab for following Vaibhav Mehra’s freeCodeCamp LangGraph course—sponsored by Scrimba—with the official reference repo here: [LangGraph-Course-freeCodeCamp](https://github.com/iamvaibhavmehra/LangGraph-Course-freeCodeCamp/). [YouTube tutorial](https://www.youtube.com/watch?v=jGg_1h0qzaM)

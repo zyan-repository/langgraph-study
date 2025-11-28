@@ -230,3 +230,4 @@ tutorials/.virtual_documents/
 tutorials/.env
 test.py
 tutorials/*.txt
+tutorials/output

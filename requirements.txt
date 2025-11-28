@@ -8,3 +8,7 @@ ipykernel
 jupyterlab
 rich
 pandas
+pypdf
+langchain-text-splitters
+langchain-chroma 
+langchain-openai
