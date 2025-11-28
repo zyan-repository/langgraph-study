@@ -229,3 +229,4 @@ tutorials/.virtual_documents/
 *.env.local
 tutorials/.env
 test.py
+tutorials/*.txt
